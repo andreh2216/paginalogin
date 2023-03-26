@@ -1,0 +1,27 @@
+body {background: linear-gradient(to left, rgb(212, 120, 120), blue);
+    font-family:Arial;}
+
+.formulario {
+
+ text-align: center;
+ border: 2px solid blue;
+ border-radius: 10px;
+ margin-top: 10%;
+ margin-left: 35%;
+ margin-right: 35%;
+ font-size:20px; 
+ padding: 40px;
+}
+
+a {
+
+text-decoration: none;
+color: black;
+font-size:17px;
+
+}
+
+input {
+border-radius: 2px;
+
+}
